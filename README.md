@@ -14,3 +14,11 @@ How to use Apple AppTrackingTransparency.framework.
 ## Target Language
 
 - Swift 5
+
+## Additional information
+
+![Framework - App Tracking Transparency](https://developer.apple.com/documentation/apptrackingtransparency)
+
+![AppStore - User Privacy and Data Use](https://developer.apple.com/app-store/user-privacy-and-data-use)
+
+![AppStore - App privacy details on the App Store](https://developer.apple.com/app-store/app-privacy-details)
