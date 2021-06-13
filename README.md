@@ -17,8 +17,8 @@ How to use Apple AppTrackingTransparency.framework.
 
 ## Additional information
 
-![Framework - App Tracking Transparency](https://developer.apple.com/documentation/apptrackingtransparency)
+[Framework - App Tracking Transparency](https://developer.apple.com/documentation/apptrackingtransparency)
 
-![AppStore - User Privacy and Data Use](https://developer.apple.com/app-store/user-privacy-and-data-use)
+[AppStore - User Privacy and Data Use](https://developer.apple.com/app-store/user-privacy-and-data-use)
 
-![AppStore - App privacy details on the App Store](https://developer.apple.com/app-store/app-privacy-details)
+[AppStore - App privacy details on the App Store](https://developer.apple.com/app-store/app-privacy-details)
